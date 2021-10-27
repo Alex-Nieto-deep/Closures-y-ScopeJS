@@ -11,3 +11,4 @@ nameOfDog('Lucas');
 function nameOfDog(name) {
     console.log(name);
 }
+    
